@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # FlowTask — Full-Stack Task Management System
 
 A production-style practice project built with **Django + DRF** (backend) and **React + Vite** (frontend).
@@ -199,6 +199,3 @@ Users can see tasks they **created** OR tasks **assigned to them**. This is enfo
 - [ ] Set up static file serving (WhiteNoise or S3)
 - [ ] Add rate limiting to auth endpoints
 - [ ] Enable HTTPS and set `SECURE_SSL_REDIRECT = True`
-=======
-
->>>>>>> f13c2593639ad3cc04a3c6c457865cf5ad3e2552
