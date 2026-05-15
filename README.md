@@ -112,6 +112,9 @@ Frontend runs at **http://localhost:5173**
 
 The Vite proxy forwards all `/api/*` requests to the Django backend — no CORS issue in development.
 
+![FlowTask Dashboard]
+<img width="1863" height="869" alt="Screenshot 2026-05-15 112243" src="https://github.com/user-attachments/assets/7a71ed07-95ed-4073-896d-4943098292e6" />
+
 ---
 
 ## API Reference
